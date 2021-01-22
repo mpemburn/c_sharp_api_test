@@ -1,0 +1,12 @@
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.csprojAssemblyReference.cache
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.AssemblyInfoInputs.cache
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.AssemblyInfo.cs
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.csproj.CoreCompileInputs.cache
+/Users/mpemburn/Projects/ApiTest/ApiTest/bin/Debug/netcoreapp3.1/ApiTest.deps.json
+/Users/mpemburn/Projects/ApiTest/ApiTest/bin/Debug/netcoreapp3.1/ApiTest.runtimeconfig.json
+/Users/mpemburn/Projects/ApiTest/ApiTest/bin/Debug/netcoreapp3.1/ApiTest.runtimeconfig.dev.json
+/Users/mpemburn/Projects/ApiTest/ApiTest/bin/Debug/netcoreapp3.1/ApiTest.dll
+/Users/mpemburn/Projects/ApiTest/ApiTest/bin/Debug/netcoreapp3.1/ApiTest.pdb
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.dll
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.pdb
+/Users/mpemburn/Projects/ApiTest/ApiTest/obj/Debug/netcoreapp3.1/ApiTest.genruntimeconfig.cache

@@ -1,19 +1,24 @@
 ﻿<Properties StartupConfiguration="{5826FAF3-326A-418E-B3A3-24D1ACDB29F2}|Default">
   <MonoDevelop.Ide.ItemProperties.ApiTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ApiTest/AbstractEndpoint.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiTest/Handlers/RequestHandler.cs">
     <Files>
-      <File FileName="ApiTest/Program.cs" Line="12" Column="51" />
-      <File FileName="ApiTest/EndpointInterface.cs" Line="14" Column="1" />
-      <File FileName="ApiTest/AbstractEndpoint.cs" Line="48" Column="31" />
-      <File FileName="ApiTest/GetProducts.cs" Line="9" Column="30" />
-      <File FileName="ApiTest/Request.cs" Line="33" Column="78" />
+      <File FileName="ApiTest/Program.cs" Line="4" Column="25" />
+      <File FileName="ApiTest/Endpoints/AbstractEndpoint.cs" Line="4" Column="1" />
+      <File FileName="ApiTest/Endpoints/AddProduct.cs" Line="6" Column="1" />
+      <File FileName="ApiTest/Endpoints/GetProducts.cs" Line="4" Column="2" />
+      <File FileName="ApiTest/Interfaces/EndpointInterface.cs" Line="1" Column="1" />
+      <File FileName="ApiTest/Handlers/RequestHandler.cs" Line="6" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ApiTest" expanded="True">
             <Node name="ApiTest" expanded="True">
-              <Node name="AbstractEndpoint.cs" selected="True" />
+              <Node name="Endpoints" expanded="True" />
+              <Node name="Handlers" expanded="True">
+                <Node name="RequestHandler.cs" selected="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
             </Node>
           </Node>
         </State>

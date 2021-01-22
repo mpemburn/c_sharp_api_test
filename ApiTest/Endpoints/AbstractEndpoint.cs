@@ -1,6 +1,7 @@
 ﻿using System.Net.Http;
+using ApiTest.Interfaces;
 
-namespace ApiTest
+namespace ApiTest.Endpoints
 {
 
     abstract public class AbstractEndpoint : EndpointInterface
@@ -11,7 +12,7 @@ namespace ApiTest
         string username;
         string password;
         bool basicAuthRequired;
-        FormUrlEncodedContent parameters;
+        HttpContent parameters;
 
 
         public string GetBaseUri()
@@ -82,6 +83,11 @@ namespace ApiTest
         public void SetUsesBasicAuth(bool basicAuthRequired)
         {
             this.basicAuthRequired = basicAuthRequired;
+        }
+
+        public void SetParameters(HttpContent parameters)
+        {
+            this.parameters = parameters;
         }
 
     }

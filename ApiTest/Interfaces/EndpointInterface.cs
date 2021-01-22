@@ -1,6 +1,6 @@
 ﻿using System.Net.Http;
 
-namespace ApiTest
+namespace ApiTest.Interfaces
 {
     public interface EndpointInterface
     {
@@ -18,5 +18,6 @@ namespace ApiTest
         void SetUserName(string username);
         void SetPassword(string password);
         void SetUsesBasicAuth(bool basicAuthRequired);
+        void SetParameters(HttpContent parameters);
     }
 }
